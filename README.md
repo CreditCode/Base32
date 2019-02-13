@@ -17,7 +17,7 @@ newab (testing, fixing, improvements)
 
 How does it work?
 
-If you run the HTML file, it will open 2 Sites: one, with a new generated URL, and one with the "generate new url" button.
+If you run the HTML file, it will open 2 Sites: one, with a new generated URL, and one with the "demo button" button.
 You only have to connect this to your upload, database or website system.
 
 --------------------------------------------------------------
