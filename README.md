@@ -17,8 +17,7 @@ newab (testing, fixing, improvements)
 
 How does it work?
 
-If you run the HTML file, it will open 2 Sites: one, with a new generated URL, and one with the "demo button" button.
-You only have to connect this to your upload, database or website system.
+Just open the HTML File, and a new Link + your URL will open. For example, if you upload it on http://testme.com, it will open: http://testme.com/HG7JAD for example.
 
 --------------------------------------------------------------
 
