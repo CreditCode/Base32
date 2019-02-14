@@ -21,6 +21,12 @@ Just open the HTML File, and a new Link + your URL will open. For example, if yo
 
 --------------------------------------------------------------
 
+Requirements:
+
+Server / Client with HTML5 & JavaScript Support, Browser (e.g Safari, Firefox, Google Chrome) & surface.
+
+--------------------------------------------------------------
+
 
 
 
