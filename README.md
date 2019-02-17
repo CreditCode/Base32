@@ -24,6 +24,10 @@ Server / Client with HTML5 & JavaScript Support, Python3 Support, C++ Support, B
 
 Instructions: 
 
+[Installation & Download]:
+
+https://www.youtube.com/watch?v=6UOaELGG1R8
+
 [JavaScript]: 
 
 Download or clone the project and run it with HTML or with any JS Runner. 
